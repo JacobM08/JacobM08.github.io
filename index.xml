@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jacob Medeiros Website</title>
+        <link>https://JacobM08.github.io/</link>
+        <description>Jacob Medeiros Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jacobm0813@gmail.com (Jacob Medeiros)</managingEditor>
+            <webMaster>jacobm0813@gmail.com (Jacob Medeiros)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <atom:link href="https://JacobM08.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
